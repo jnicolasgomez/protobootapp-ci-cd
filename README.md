@@ -5,7 +5,7 @@ https://github.com/jnicolasgomez/protobootapp-ci-cd
 3.  Configurado para ejecutar la accion y hacer el build de maven al hacer push a la rama main
 ## Results
 Se ejecutó le build de forma correcta
-![github_results](https://github.com/jnicolasgomez/protobootapp-ci-cd/images/github_results.png)
+![github_results](https://github.com/jnicolasgomez/protobootapp-ci-cd/tree/main/images/images/github_results.png)
 # Setup Jenkins
 1. Se descargó la version lts de Jenkins desde una imagen de Docker. y se ejecuta en el port 8080
 2. Configuracion de Plugins adicionales
@@ -25,11 +25,11 @@ Se ejecutó le build de forma correcta
 
 ## Results
 1. La ejecucion resulta exitosa Mostrando en el dashboard los reultados de cada herramienta
-   ![jenkins_results](https://github.com/jnicolasgomez/protobootapp-ci-cd/images/jenkins_results_2.png)
+   ![jenkins_results](https://github.com/jnicolasgomez/protobootapp-ci-cd/tree/main/images/jenkins_results_2.png)
 
 2. Prueba con test fallidos y reduccion de coverage
-   ![jenkins_results](https://github.com/jnicolasgomez/protobootapp-ci-cd/images/jenkins_results_3.png)
+   ![jenkins_results](https://github.com/jnicolasgomez/protobootapp-ci-cd/tree/main/images/jenkins_results_3.png)
 
-![jenkins_results](https://github.com/jnicolasgomez/protobootapp-ci-cd/images/jenkins_results_4.png)
+![jenkins_results](https://github.com/jnicolasgomez/protobootapp-ci-cd/tree/main/images/jenkins_results_4.png)
 
-![jenkins_results](https://github.com/jnicolasgomez/protobootapp-ci-cd/images/jenkins_results_5.png)
+![jenkins_results](https://github.com/jnicolasgomez/protobootapp-ci-cd/tree/main/images/jenkins_results_5.png)
